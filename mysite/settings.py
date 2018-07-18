@@ -27,8 +27,8 @@ DEBUG = True
 
 #ALLOWED_HOSTS = []
 
-ALLOWED_HOSTS = ['Aleksandra712.pythonanywhere.com', '127.0.0.1:8000']
-http://Aleksandra712.pythonanywhere.com/video/
+ALLOWED_HOSTS = ['sadchenko.pythonanywhere.com', '127.0.0.1:8000']
+http://sadchenko.pythonanywhere.com/video/
 
 # Application definition
 
